@@ -21,7 +21,7 @@ A simple usage example with default values being passed as settings:
 var geoStar = require('geo-star');
 
 // geo will be a Object will two properties:
-// points - the vertices
+// positions - the vertices
 // cells - the indices to draw the star
 var geo = geoStar( {
     cellSize: 3, // 1 == points, 2 == lines, 3 == triangles
