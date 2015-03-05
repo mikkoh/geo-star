@@ -1,6 +1,6 @@
 {
   "name": "geo-star",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates a 2d star type shape in 3d space",
   "main": "index.js",
   "license": "MIT",
